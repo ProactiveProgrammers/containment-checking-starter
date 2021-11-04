@@ -127,7 +127,7 @@ def perform_containment_check_benchmark(
     )
     console.print()
     console.print(
-        f":abacus: Average time for running {number_runs} runs in {number_repeats} benchmark campaigns: {calculate_average_values(execution_times, number_runs)}"
+        f":abacus: Average time for running one of {number_runs} runs in {number_repeats} benchmark campaigns: {calculate_average_values(execution_times, number_runs)}"
     )
 
 
