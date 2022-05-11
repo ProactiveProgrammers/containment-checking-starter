@@ -1,5 +1,12 @@
 # Containment Checking
 
+TODO: Make sure that you delete all of the TODO markers from this file and
+either rewrite or delete the prompts. When you are finished writing the content
+in this reflection you should ensure that your document does not have any
+mistakes in spelling, grammar, or Markdown syntax. Ultimately, your final
+version of your technical writing should be suitable for publication on your
+professional web site.
+
 ## Add Your Name Here
 
 ## Program Output
