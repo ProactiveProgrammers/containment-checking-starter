@@ -14,25 +14,32 @@ professional web site.
 ### Report at least five examples of program output to demonstrate that your `containmentcheck` program works correctly
 
 TODO: Document and justify your choice for all of the experiment parameters
+TODO: Make sure that you provide five different command-lines to demonstrate
+how your program runs experiments and produces output
 
 #### One output from running the `containmentcheck` program
 
+TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
 #### One output from running the `containmentcheck` program
 
+TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
 #### One output from running the `containmentcheck` program
 
+TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
 #### One output from running the `containmentcheck` program
 
+TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
 #### One output from running the `containmentcheck` program
 
+TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
 ## Experiment Design
