@@ -58,13 +58,16 @@ experiment:
 TODO: You must justify every part of your experiment design and then furnish
 output examples to demonstrate that your program generates correct data!
 
+NOTE: The output examples that you give are in an earlier subsection of this file.
+
 ## Research Questions
 
 TODO: Clearly state at least three research questions that you want to ask and
 answer by using the `containmentcheck` program. You should provide the research
-questions in a list that starts with "RQ" and ends with a question mark. Please
-see the engineering effort about the intersection algorithms for examples of
-research questions that the course instructor created for that project.
+questions in a list with three entries that each start with "RQ" and end with a
+question mark. Bearing in mind that it must be feasible for you to answer the
+research questions, You should aim to write three research questions for which
+there is a knowledge gap about the performance of the `in` operator in Python.
 
 ## Data Tables
 
@@ -85,7 +88,7 @@ tables to support your response. You should make sure that you answer each of
 the at least three research questions that you posed in a previous section.
 
 TODO: Make sure that your responses explain WHY certain configurations are faster!
-TODO: It is not sufficient to ONLY explain WHICH configuration is faster!
+TODO: It is NOT sufficient to ONLY explain WHICH configuration is faster!
 
 ### Analytical Evaluation
 
