@@ -105,7 +105,7 @@ algorithms called `containment_check_tuple`, `containment_check_list`, and
 ### Describe in detail how the provided source code works
 
 TODO: Use a fenced code block to provide the requested source code
-TODO: Write at least one paragraph to explain the request source code
+TODO: Write at least one paragraph to explain the provided source code
 
 ```python
 number_runs = 10
@@ -120,7 +120,7 @@ execution_times = timeit.Timer(containment_check_lambda).repeat(
 def calculate_average_values(data_list: List[float], data_count: int) -> List[float]:
 ```
 
-TODO: Write at least one paragraph to explain the request source code
+TODO: Write at least one paragraph to explain the source code that you wrote for this function
 
 ## Professional Development
 
