@@ -46,7 +46,7 @@ setup: |
       check: CountMarkdownTags
       options:
         tag: heading
-        count: 18
+        count: 22
         exact: false
     - description: Confirm that the markdown file has the correct number of fenced code blocks
       check: CountMarkdownTags
