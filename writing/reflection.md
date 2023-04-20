@@ -59,7 +59,7 @@ should consider the following parameters as a part of your experiment:
 TODO: You must justify every part of your experiment design and then furnish
 output examples to demonstrate that your program generates correct data!
 
-NOTE: The output examples that you give are in an earlier subsection of this file.
+TODO: The output examples that you give are in an earlier subsection of this file.
 
 ## Research Questions
 
@@ -100,7 +100,6 @@ complexity, using the big-O notation, for the three containment check
 algorithms called `containment_check_tuple`, `containment_check_list`, and
 `containment_check_set`. You should justify why you picked that complexity.
 
-
 ## Source Code
 
 ### Describe in detail how the provided source code works
@@ -115,9 +114,17 @@ execution_times = timeit.Timer(containment_check_lambda).repeat(
     repeat=number_repeats, number=number_runs
 ```
 
+### Describe how you implemented the following function
+
+```python
+def calculate_average_values(data_list: List[float], data_count: int) -> List[float]:
+```
+
+TODO: Write at least one paragraph to explain the request source code
+
 ## Professional Development
 
-### What is challenging about designing an experiment to evaluate an algorithm's performance?
+### What is the most challenging about designing an experiment to evaluate an algorithm's performance?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
