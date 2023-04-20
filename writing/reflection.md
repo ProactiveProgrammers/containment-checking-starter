@@ -17,37 +17,38 @@ TODO: Document and justify your choice for all of the experiment parameters
 TODO: Make sure that you provide five different command-lines to demonstrate
 how your program runs experiments and produces output
 
-#### One output from running the `containmentcheck` program
+#### First output from running the `containmentcheck` program
 
 TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
-#### One output from running the `containmentcheck` program
+#### Second output from running the `containmentcheck` program
 
 TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
-#### One output from running the `containmentcheck` program
+#### Third output from running the `containmentcheck` program
 
 TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
-#### One output from running the `containmentcheck` program
+#### Fourth output from running the `containmentcheck` program
 
 TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
-#### One output from running the `containmentcheck` program
+#### Fifth output from running the `containmentcheck` program
 
 TODO: Give the exact command-line that resulted in this output
 TODO: Provide a fenced code block with one output from running the program
 
 ## Experiment Design
 
-TODO: Explain the setup for your experiment that you ran to characterize the
-performance of the different configurations of containment checking algorithms.
-For instance, you should consider the following parameters as a part of your
-experiment:
+TODO: Explain the setup for your experiment that you plan to run to
+characterize the performance of the different configurations of containment
+checking algorithms. Remember, a containment check determines whether or not a
+specified value exists inside of some type of data container! For instance, you
+should consider the following parameters as a part of your experiment:
 
 - The data container: `set`, `list`, and `tuple`
 - The size of the data container: small values (e.g., 1 million numbers) to big
