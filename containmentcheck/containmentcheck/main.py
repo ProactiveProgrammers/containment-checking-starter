@@ -23,6 +23,9 @@ console = Console()
 class ContainmentCheckApproach(str, Enum):
     """Define the name for the approach for performing containment checking of structured types."""
     # TODO: define the three different approaches for containment checking
+    # TODO: make sure that this works for the three approaches of a list, tuple, or set
+    # TODO: make sure that when you run this program in the command-line interface
+    # it clearly describes the options that are available for the containment checking approach
 
 
 def human_readable_boolean(answer: bool) -> str:
@@ -87,16 +90,20 @@ def containment_check_set(thelist: List[int], number: int) -> bool:
     # TODO: the value is, in fact, inside of the set
     # so this function should return True
     # TODO: return bool to indicate whether or not value is found
-    # NOTE: Make sure that you use the "in" operator for this function
+    # NOTE: make sure that you use the "in" operator for this function
+    # NOTE: you need to write source code to extend the declaration of found
 
 
 def calculate_average_values(data_list: List[float], data_count: int) -> List[float]:
     """Calculate the average values for the data in the provided list."""
-    data_list_averages = []
-    for data_value in data_list:
-        current_average = data_value / data_count
-        data_list_averages.append(current_average)
-    return data_list_averages
+    # TODO: calculate the average of the times that are provided in the list,
+    # leveraging the fact that the total number of values is stored in data_count
+    # TODO: note that this function is not averaging the values in the list;
+    # rather it is dividing each sum of runs by the provided data_count and
+    # then adding that overage to the list. Please see the description of the
+    # output to understand more about this function works:
+    # https://proactiveprogrammers.com/data-abstraction/engineering-efforts/containment-checking/
+    return 0
 
 
 def perform_containment_check_benchmark(
