@@ -124,7 +124,7 @@ TODO: Write at least one paragraph to explain the source code that you wrote for
 
 ## Professional Development
 
-### What is the most challenging about designing an experiment to evaluate an algorithm's performance?
+### What is the most challenging task when designing an experiment to evaluate an algorithm's performance?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
